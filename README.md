@@ -1,7 +1,7 @@
 # nonebot-plugin-turbobot
 ## 简介
 
-Turbo Bot 是一个为 Turbo 用户提供指令服务的 Nonebot 插件。通过该插件，用户可以进行设置和管理用户功能票等操作。
+Turbo Bot 是一个为 Turbo Polar 用户提供指令服务的 Nonebot 插件。通过该插件，用户可以进行设置和管理用户功能票等操作。
 
 ## 归属
 
@@ -13,6 +13,8 @@ Turbo Bot 是一个为 Turbo 用户提供指令服务的 Nonebot 插件。通过
 - 修改和删除用户名称
 - 设置和删除用户功能票
 - 获取网络数据
+- 好友列表请求的同意和拒绝
+- 查询机厅信息
 
 ## 安装
 
